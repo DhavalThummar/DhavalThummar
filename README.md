@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Dhaval Thummar</h1>
+<h1 align="left">Hey,There  I'm Dhaval Thummar 👋</h1>
 
 ###
 
@@ -40,7 +40,7 @@
 
 <div>
   <a href="https://github.com/DhavalThummar">
-    <img src="https://github-profile-trophy.vercel.app/?username=DhavalThummar&column=4&margin-w=20&margin-h=20&title=-Stars,-Followers,-PullRequest,-Reviews" alt="themanthan9">
+    <img src="https://github-profile-trophy.vercel.app/?username=DhavalThummar&column=4&margin-w=20&margin-h=20&title=-Stars,-Followers,-PullRequest,-Reviews" alt="DhavalThummar">
   </a>
 </div>
 
@@ -49,5 +49,5 @@
 <hr/>
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhavalThummar" alt="themanthan9">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhavalThummar" alt="DhavalThummar">
 </div>
