@@ -2,7 +2,8 @@
 
 ###
 
-<h4 align="left">A passionate Fullstack Developer from Surat, India.</h4>
+<h4 align="left">Crafting awesome UI/UX designs to coding websites and apps, my journey and achievements speak volumes about my commitment to enhancing lives. My adventure is an ongoing tale of growth and learning, and I'm excited to keep shaping my narrative while helping businesses shape their digital destinies.
+</h4>
 
 ###
 
@@ -10,44 +11,22 @@
 
 ###
 
-<p align="left">✨ Writing code since 2014<br>📚 I'm always curios about learning new things<br>🎲 Can't leave without code 😟</p>
+<p align="left">✨ Writing code since 2014<br>📚 I'm always curios about learning new things<br>🎲 Can't leave without code 😟 <br> 🌱 2024 Goals : Publish open source library</p>
 
 ###
-
-<h2 align="left">I have worked with</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo"  />
-  <img src="https://skillicons.dev/icons?i=shopify" height="40" alt="React logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="NextJS logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="Typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gulp" height="40" alt="Gulp logo"  />
-</div>
-
-###
-
-<hr/>
 
 <div>
   <a href="https://github.com/DhavalThummar">
     <img src="https://github-profile-trophy.vercel.app/?username=DhavalThummar&column=4&margin-w=20&margin-h=20&title=-Stars,-Followers,-PullRequest,-Reviews" alt="DhavalThummar">
+    
   </a>
+  
 </div>
 
-###
-
-<hr/>
+<br>
 
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhavalThummar" alt="DhavalThummar">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhavalThummar&show_icons=true&locale=en"
+    alt="DhavalThummar" />
 </div>
