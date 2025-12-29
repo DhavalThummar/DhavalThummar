@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Writing code since 2014<br>📚 I'm always curios about learning new things<br>🎲 Can't leave without code 😟 <br> 🌱 2024 Goals : Publish open source library</p>
+<p align="left">✨ Writing code since 2014<br>📚 I'm always curios about learning new things<br>🎲 Can't leave without code 😟 <br> 🌱 2025 Goals : Publish open source library</p>
 
 ###
 
